@@ -9,6 +9,6 @@ Key Insights:
 
 PBIX LINK: 
 
-PDF LINK: https://drive.google.com/file/d/11f5akQD_ep76ABi5fIxwkfSf8rRe890a/view?usp=sharing
+PDF LINK: https://drive.google.com/file/d/1eDNsLiCvufhoRtyi6wUCBHpVtMkVi588/view?usp=drive_link
 
-PPT LINK: https://drive.google.com/file/d/1eDNsLiCvufhoRtyi6wUCBHpVtMkVi588/view?usp=drive_link
+PPT LINK: https://drive.google.com/file/d/11f5akQD_ep76ABi5fIxwkfSf8rRe890a/view?usp=sharing

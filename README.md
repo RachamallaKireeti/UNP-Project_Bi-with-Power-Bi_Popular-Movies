@@ -11,4 +11,4 @@ PBIX LINK: https://drive.google.com/file/d/17tJPKo8qxztgSgg12vJJaJQZ0DShNdnG/vie
 
 PDF LINK: https://drive.google.com/file/d/1eDNsLiCvufhoRtyi6wUCBHpVtMkVi588/view?usp=drive_link
 
-PPT LINK: https://drive.google.com/file/d/1ExgPpPfwvT-NDO0_AulNfNrqy2gWCYfN/view?usp=drive_link
+PPT LINK: https://drive.google.com/file/d/1sMONH9QCXAoc6qHMHdB0MRMtSN5qPq_g/view?usp=sharing
